@@ -3,9 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Pratush Gupta</h1>
 
-
-- - 🌱 I’m currently learning **Data structure and Algorithm , DBMS , AI**
-
+- 🏛 I am a undergrad student at IIITG 
+- 🌱 I’m currently learning **Data structure and Algorithm , DBMS , AI**
 - 📫 How to reach me **https://www.linkedin.com/in/pratush-gupta-a03785223/**
 
 <h3 align="left">Connect with me:</h3>
